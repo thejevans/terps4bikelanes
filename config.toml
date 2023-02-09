@@ -12,11 +12,12 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://forms.gle/tTmrW5XeTnKpTpbS6", text = "Sign our petition" } },
     { link = { href = "letter/", text = "Letter to Pines", target = "_self" } },
     { email = { href = "mailto:terps4bikelanes@gmail.com", text = "Contact us" } },
-    { link = {  href = "https://terplink.umd.edu/organization/terps4bikelanes", text = "TerpLink" } },
+    { link = { href = "https://terplink.umd.edu/organization/terps4bikelanes", text = "TerpLink" } },
     { instagram = "https://www.instagram.com/terps4bikelanes" },
     { slack = "https://join.slack.com/t/terps4bikelanes/signup" },
-    { link = {href = "https://app.markup.io/markup/05cb82e2-b693-4fc2-b9d5-3eac5959b297", text = "Report accidents/close calls"} },
-    { link = {href = "https://app.markup.io/markup/e6842b98-96b0-4bb4-bcd9-1357b911c042", text = "Report poor infrastructure"} },
+    { link = { href = "https://app.markup.io/markup/05cb82e2-b693-4fc2-b9d5-3eac5959b297", text = "Report crashes/close calls" } },
+    { link = { href = "http://ter.ps/accidentform", text = "Report crashes to DOTS" } },
+    { link = { href = "https://app.markup.io/markup/e6842b98-96b0-4bb4-bcd9-1357b911c042", text = "Report poor infrastructure" } },
   ]
 
 [markup.highlight]
