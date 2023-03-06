@@ -10,6 +10,8 @@ disableKinds = ["taxonomy", "term"]
   image = "author.png"
   links = [
     { link = { href = "https://forms.gle/tTmrW5XeTnKpTpbS6", text = "Sign our petition" } },
+    { email = { href = "mailto:terps4bikelanes-subscribe@lists.riseup.net", text = "Join our mailing list" } },
+    { link = { href = "https://lists.riseup.net/www/arc/terps4bikelanes", text = "Mailing list archive" } },
     { link = { href = "letter/", text = "Letter to Pines", target = "_self" } },
     { email = { href = "mailto:terps4bikelanes@gmail.com", text = "Contact us" } },
     { link = { href = "https://terplink.umd.edu/organization/terps4bikelanes", text = "TerpLink" } },
